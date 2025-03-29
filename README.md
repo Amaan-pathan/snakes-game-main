@@ -79,7 +79,3 @@ Use the arrow keys or `W`,`A`,`S`,`D` keys on your keyboard to control the snake
 Others:
 
 - To **Pause** the game - Press `esc` or click anywhere the screen
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
