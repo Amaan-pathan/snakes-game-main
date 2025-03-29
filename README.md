@@ -17,7 +17,7 @@ A classic Snake game built using React.js, HTML Canvas, and TypeScript.
 
 ## Demo
 
-You can play the game online at [Snake Game Demo](https://snakes-game-nine.vercel.app/).
+You can play the game online at [Snake Game Demo]
 
 ## Features
 
